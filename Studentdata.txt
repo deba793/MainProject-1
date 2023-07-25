@@ -1,0 +1,10 @@
+Studentdata
+======================
+Name            Rollno
+====            ======
+Hari singh     	16
+Sonu Rout      	34
+Akash Nayak    	67
+Abhishek Singh 	51
+Biswajit Das   	45
+Harihara Samal 	67
